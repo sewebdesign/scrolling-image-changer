@@ -1,6 +1,3 @@
-#siteWrapper .user-items-list-section:has([data-space-below-section-title-value="291"]):first-child {
-  padding-top: 0 !important;
-}
 #siteWrapper .user-items-list[data-space-below-section-title-value="291"] .user-items-list-simple {
   grid-template-columns: 1fr;
 }
