@@ -3,6 +3,7 @@
 }
 #siteWrapper .user-items-list[data-space-below-section-title-value="291"] .list-section-title {
   padding-bottom: var(--spacebelowtitle, 80px)!important;
+  text-align: center !important;
 }
 #siteWrapper .user-items-list[data-space-below-section-title-value="291"] .list-section-title:has(p:empty) {
   display: none !important;
