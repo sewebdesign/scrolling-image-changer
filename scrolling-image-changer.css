@@ -139,6 +139,6 @@
     transform: scale(1)!important;
   }
   #siteWrapper .user-items-list[data-space-below-section-title-value="291"] .text-container .list-item-content.active {
-    opacity: 1;
+    opacity: 1!important;
   }
 }
